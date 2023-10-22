@@ -1,0 +1,27 @@
+#triva{
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+#answers button{
+  width: 100%;
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 10px;
+}
+#again{
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 10px;
+}
+.correct{
+  background: green;
+  color: #fff;
+  font-weight: 900
+}
+
+.incorrect{
+  background: red;
+  color:#fff;
+  font-weight: 900;
+}
